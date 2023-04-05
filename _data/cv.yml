@@ -72,8 +72,8 @@
   contents:
     - title: Information Systems
       items: 
-        - Academic level SQL knowledge.
-        - Building small-scale information systems using relational DBMS.
+        - Academic-level SQL knowledge.
+        - Building and maintaining small-scale information systems using relational DBMS.
     - title: Programming Languages
       items:
         - Academic-level Python knowledge and well-versed in the use of the GUI framework Tkinter.
