@@ -73,12 +73,12 @@
     - title: Information Systems
       items: 
         - Academic level SQL knowledge.
-        - Building small scale information systems using relational DBMS.
+        - Building small-scale information systems using relational DBMS.
     - title: Programming Languages
       items:
-        - Academic level Python knowledge and well-versed in use of GUI framework Tkinter.
-        - Hobbyist level understanding of Lua.
-        - Rudimentary understanding of C++.
+        - Academic-level Python knowledge and well-versed in the use of the GUI framework Tkinter.
+        - Hobbyist-level understanding of Lua.
+        - A rudimentary understanding of C++.
     - title: Other
       items:
         - Rudimentary application analysis and reverse engineering especially using IDA Pro.
